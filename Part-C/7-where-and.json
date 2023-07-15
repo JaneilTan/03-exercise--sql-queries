@@ -1,1 +1,27 @@
-[]
+[
+    {
+     "title": "Django Unchained",
+     "age": "18",
+     "year": "2012"
+    },
+    {
+     "title": "Inglourious Basterds",
+     "age": "18",
+     "year": "2009"
+    },
+    {
+     "title": "Kill Bill: Vol. 1",
+     "age": "18",
+     "year": "2003"
+    },
+    {
+     "title": "Kill Bill: Vol. 2",
+     "age": "18",
+     "year": "2004"
+    },
+    {
+     "title": "The Hateful Eight",
+     "age": "18",
+     "year": "2015"
+    }
+   ]

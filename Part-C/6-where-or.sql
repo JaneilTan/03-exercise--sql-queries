@@ -1,1 +1,2 @@
 -- Task: Select the title column only for movies that are directed by 'Steven Spielberg' or 'George Lucas'. --
+SELECT title FROM movies WHERE directors = 'Steven Spielberg' OR directors = 'George Lucas';

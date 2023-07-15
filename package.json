@@ -1,0 +1,18 @@
+{
+  "name": "03-exercise-sql-query-1",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "papaparse": "^5.3.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": []
+  }
+}

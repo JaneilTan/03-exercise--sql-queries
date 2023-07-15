@@ -1,0 +1,1 @@
+-- Task: Get movie title, IMDB rating and runtime for movies on Netflix that have a IMDB rating equal to or greater than 8. Order the results by IMDB rating in descending order and only return the top 20 rows. --

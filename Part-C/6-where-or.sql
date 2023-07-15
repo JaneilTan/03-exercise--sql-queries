@@ -1,0 +1,1 @@
+-- Task: Select the title column only for movies that are directed by 'Steven Spielberg' or 'George Lucas'. --

@@ -1,0 +1,1 @@
+-- Task: Select title, age and year columns for all movies directed by 'Quentin Tarantino' and are rated for ages 18 only. Order the results by IMDB rating in descending order. --

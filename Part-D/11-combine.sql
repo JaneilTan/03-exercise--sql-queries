@@ -1,0 +1,1 @@
+-- Task: Get the title, year, and Rotten Tomatoes rating for any movies that are on Netflix, are a comedy, released before 2000, and have an IMDB rating over 8, and a valid/non-null Rotten Tomatoes rating. Order the results by Rotten Tomatoes rating in descending order. Limit the results to the top row only. --

@@ -1,0 +1,1 @@
+-- Task: Get the title, year, and IMDB rating columns of all movies from the year 1984. --
